@@ -1,4 +1,4 @@
-# Movie Watchlist Manager
+# My Movie Watchlist
 
 A Python Tkinter application that allows users to create and manage a personal movie watchlist.
 
